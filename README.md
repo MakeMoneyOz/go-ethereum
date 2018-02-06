@@ -1,9 +1,9 @@
 ## Go Ellaism [dev]
 
-ELLAISM DEV NOTES
+## ELLAISM DEV NOTES
 
-This code will not work until configuration settings are complete please do not use until this message is removed 6 Feb 2018
-Specifically working to port the settings for Ellaism located at https://github.com/ellaism/go-ellaism/blob/master/core/config/mainnet.json
+### This code will not work until configuration settings are complete please do not use until this message is removed 6 Feb 2018
+### Specifically working to port the settings for Ellaism located at https://github.com/ellaism/go-ellaism/blob/master/core/config/mainnet.json
 
 END ELLAISM DEV NOTES
 
